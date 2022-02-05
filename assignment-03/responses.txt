@@ -1,1 +1,3 @@
-This is some text
+The relationship between an IP address and the DNS is that an IP address is an address on the internet. A place to track things to or locate something like a phone number. A DNS or Design Name System is the way your computer looks up domain names and gets an IP address. The DNS connects your computer to the correct IP address so that you can locate a specific site or information.
+A cookie is an HTTP cookie that is data that your computer collects and sends back. The cookie keeps track of what sites you visit and how long.
+The three essential parts of a URL is first the protocol that is the http://. The next part is the domain which is the unique part of the URL, naming the site of where you want to go. The final part is the path which is the "instructions" on how to find a directory. This takes you to the direct location that you want to go to when you search on the internet.
