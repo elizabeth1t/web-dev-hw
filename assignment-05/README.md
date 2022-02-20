@@ -1,0 +1,3 @@
+![Screenshot](./images/Scree.PNG)
+
+I visited YouTube using the Wayback Machine. YouTube was created April 28th, 2005 and is in use ever since. The older version is different from the current version today in terms of its overall design is that YouTube used to be very clunky. At the start of YouTube in 2005, there were 5 tabs at the top for Home, Favorites, Messages, Videos, and Mt Profile. You had to put in a screen name and password as well. In comparison to now, the design and layout is extremely different. Even in 5 years, 2010, the layout and design of YouTube changed quite a lot. There is not Home, Videos, Channels, and Shows as tabs to choose from. There is a similar layout of videos as today with the number of views listed and who posted it.
