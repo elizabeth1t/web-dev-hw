@@ -1,0 +1,160 @@
+#header{
+  background-image: url("../images/cat.jpg");
+}
+
+h1{
+  color:inherit;
+  font-family: Akshar;
+  font-size: 100px;
+  letter-spacing:0em;
+}
+
+.titleBorder{
+  height: 200px;
+  background-color: black;
+  color: black;
+}
+
+#title:hover {
+  letter-spacing: 0.3em;
+  color; #E81C23;
+}
+
+.titleBorder:hover{
+  background-color: #inherit;
+  color: white;
+  text-indent: 11em;
+  font-family: Akshar;
+}
+
+.subtitle{
+  padding-top: 50px;
+  font-size: 75px;
+  margin: auto;
+}
+
+.main-content{
+  margin: auto;
+  color: #333;
+  font-size: 20px;
+  line-height: 26px;
+  max-width: 600px;
+  font-family: Akshar;
+}
+
+.main-content::first-line{
+  font-size: 30px;
+  font-family: Akshar;
+  line-height: 45px;
+}
+
+.change-01 {
+  font-size: 75%;
+}
+
+#left {
+  text-align: center;
+}
+
+#size{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+#first-bar {
+  margin-top: 4em;
+  padding: 1em;
+}
+
+/* Menu */
+header {
+  position: fixed;
+  background-color: black;
+  width: 99%;
+  height: 4em;
+  top: 0px;
+  font-family: Akshar;
+  text-align: right;
+}
+
+/* Layout of the menu */
+.menu-item {
+  display: inline-block;
+  margin: 1em .2em;
+  background-color: #93a1b1;
+  padding: .5em 1em;
+  border-radius: 1em;
+  min-width: 6em;
+  text-align: center;
+}
+
+.menu-item:hover{
+  background-color: #ee1405;
+  color: #333;
+}
+
+
+/*Link styling*/
+.menu-item a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Dropdown */
+.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  margin: 0.5em 0 0 -1em;
+  color: #000;
+  background-color: #fff;
+  z-index: 1;
+  border-radius: 0em 0em 1em 1em;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content a{
+  color: black;
+
+}
+
+/*Styling dropdown display*/
+.dropdown-item {
+  display: block;
+  text-align left;
+  margin: 0;
+  padding: 0.5em 1em 0.5em 1em;
+  min-width: 6em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+  color: white;
+  background-color: #ee1405;
+}
+
+#foundation:hover{
+  border-radius: 0em 0em 1 em 1em;
+}
+
+.dropdown:hover{
+  border-radius: 1em 1em 0em 0em;
+}
+
+/*Site name styling*/
+.site-name {
+  color: #ee1405;
+  float: left;
+  min-width: 6em;
+  padding: 0.5 1em;
+  letter-spacing: 0.2em;
+  font-weight: bold;
+  margin: 1em .2em;
+}
